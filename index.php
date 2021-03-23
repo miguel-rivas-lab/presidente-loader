@@ -4,8 +4,8 @@
 	$configSite = array(
 		"titulo" => "Cerveza Presidente",
 		"tags" => ", institucional",
-		"icon_path" => "http://miguelrivas.me/img/logo.png",
-		"fb_preview" => "https://miguelrivas.me/img/pv_institucional_2015.png"
+		"icon_path" => "https://miguel-rivas.github.io/img/favicon.ico",
+		"fb_preview" => "https://miguel-rivas.github.io/img/pv_institucional_2015.png"
 	);
 ?>
 
